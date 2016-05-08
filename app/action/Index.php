@@ -15,6 +15,7 @@
  *  @package   Myproject
  */
 
+/* test */
 class Myproject_Form_Index extends Myproject_ActionForm
 {
     /**
